@@ -1,0 +1,24 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#main {
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.fork {
+    color: gray;
+}
+
+#main {
+    column-count: 5;
+}
+
+#title {
+    text-align: center;
+}
+
+#result {
+    display: none;
+}
